@@ -1,0 +1,1 @@
+Voici un bot Twitter réalisé avec Ruby pour tweeter, liker et follow et pour diffuser le #bonjour_monde.
